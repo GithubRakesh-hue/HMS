@@ -83,7 +83,7 @@ The system stores patient information in a CSV file using the following fields:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Hospital-Management-System.git
+git clone https://github.com/GithubRakesh-hue/HMS.git
 ```
 
 ### 2️⃣ Move Into Project Directory
