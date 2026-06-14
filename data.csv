@@ -1,0 +1,31 @@
+patient_id,name,age,gender,disease,doctor_name,admission_date,bill_amount,status
+101,Vaibhav,25,Male,Fever,Dr.Sharma,2025-06-10,5000,Admitted
+102,Rahul,30,Male,Malaria,Dr.Patil,2025-06-11,8000,Discharged
+103,Amit,33,Male,Typhoid,Dr.Patil,2025-06-12,6000,Under Observation
+104,Swati,20,Female,Fever,Dr.Sharma,2025-06-04,10000,Under Observation
+105,Pooja,63,Female,Bronchitis,Dr.Joshi,2025-06-04,17000,Under Observation
+106,Sneha,62,Female,Migraine,Dr.Verma,2025-06-05,7000,Admitted
+107,Priya,42,Female,Malaria,Dr.Verma,2025-06-06,22000,Discharged
+108,Rohan,25,Male,Migraine,Dr.Sharma,2025-06-09,12000,Under Observation
+109,Ravi,63,Male,Malaria,Dr.Sharma,2025-06-11,10000,Discharged
+110,Arjun,42,Male,Flu,Dr.Joshi,2025-06-11,14000,Admitted
+111,Anjali,60,Female,Flu,Dr.Sharma,2025-06-10,23000,Admitted
+112,Vikram,42,Male,Flu,Dr.Mehta,2025-06-04,24000,Discharged
+113,Arjun,69,Male,Covid-19,Dr.Joshi,2025-06-05,5000,Admitted
+114,Deepika,43,Female,Diabetes Checkup,Dr.Patil,2025-06-05,7000,Admitted
+115,Neha,75,Female,Gastritis,Dr.Joshi,2025-06-06,10000,Admitted
+116,Priya,73,Female,Malaria,Dr.Patil,2025-06-11,8000,Under Observation
+117,Kiran,42,Female,Migraine,Dr.Mehta,2025-06-08,19000,Discharged
+118,Rohan,66,Male,Flu,Dr.Verma,2025-06-02,12000,Discharged
+119,Sunita,64,Female,Flu,Dr.Mehta,2025-06-13,8000,Under Observation
+120,Rajesh,56,Male,Typhoid,Dr.Patil,2025-06-06,8000,Under Observation
+121,Aarti,49,Female,Fever,Dr.Sharma,2025-06-06,12000,Admitted
+122,Arjun,23,Male,Malaria,Dr.Joshi,2025-06-02,20000,Admitted
+123,Manish,28,Male,Flu,Dr.Mehta,2025-06-10,16000,Admitted
+124,Rajesh,60,Male,Covid-19,Dr.Joshi,2025-06-09,17000,Admitted
+125,Arjun,39,Male,Fever,Dr.Mehta,2025-06-09,10000,Under Observation
+126,Amit,63,Male,Fever,Dr.Patil,2025-06-02,4000,Discharged
+127,Alok,35,Male,Diabetes Checkup,Dr.Patil,2025-06-09,7000,Under Observation
+128,Deepika,69,Female,Migraine,Dr.Patil,2025-06-02,6000,Under Observation
+129,Vijay,44,Male,Diabetes Checkup,Dr.Sharma,2025-06-11,23000,Under Observation
+130,Amit,64,Male,Covid-19,Dr.Sharma,2025-06-04,9000,Admitted
